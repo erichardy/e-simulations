@@ -13,3 +13,5 @@ L'Oscillateur HF et BF)
 Merci à Bertrand (Électro-Bidouilleur, https://bidouilleur.ca) pour les partager sous licence "creative commons" !
 
 https://fr.wikipedia.org/wiki/Creative_Commons
+
+Si vous utilisez un ou plusieurs de ces fichiers, quelqu'en voit la finalité, merci d'en respecter la licence originale.
