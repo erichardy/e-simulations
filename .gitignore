@@ -3,4 +3,5 @@
 *.net
 *.raw
 *.fft
+.DS_Store
 
