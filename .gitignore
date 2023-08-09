@@ -3,6 +3,6 @@
 *.net
 *.raw
 *.fft
-*.plt
+Transformers/Transform1.plt
 .DS_Store
 
