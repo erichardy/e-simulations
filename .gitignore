@@ -5,4 +5,4 @@
 *.fft
 Transformers/Transform1.plt
 .DS_Store
-
+./tmp/*
