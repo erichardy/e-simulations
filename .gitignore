@@ -4,6 +4,9 @@
 *.net
 *.raw
 *.fft
+*.txt
+*.db
+*.cir
 Transformers/Transform1.plt
 .DS_Store
 tmp
