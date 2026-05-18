@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -176 -56 176 56
+WINDOW 0 0 -56 Bottom 2
+PIN -176 -32 LEFT 8
+PINATTR PinName Out555
+PINATTR SpiceOrder 1
+PIN -176 0 LEFT 8
+PINATTR PinName Pulse
+PINATTR SpiceOrder 2
+PIN -176 32 LEFT 8
+PINATTR PinName Vcc
+PINATTR SpiceOrder 3
+PIN 176 0 RIGHT 8
+PINATTR PinName StairStep
+PINATTR SpiceOrder 4

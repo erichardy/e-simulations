@@ -7,8 +7,8 @@ PIN -144 0 LEFT 8
 PINATTR PinName Vcc
 PINATTR SpiceOrder 1
 PIN 144 -16 RIGHT 8
-PINATTR PinName Pulse
+PINATTR PinName ResetForStairSt
 PINATTR SpiceOrder 2
 PIN 144 16 RIGHT 8
-PINATTR PinName PulseAmplified
+PINATTR PinName ResetFor555
 PINATTR SpiceOrder 3
