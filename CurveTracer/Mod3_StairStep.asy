@@ -1,6 +1,6 @@
 Version 4
 SymbolType BLOCK
-RECTANGLE Normal -176 -56 176 56
+RECTANGLE Normal -176 -56 176 112
 WINDOW 0 0 -56 Bottom 2
 PIN -176 -32 LEFT 8
 PINATTR PinName Out555
@@ -14,3 +14,6 @@ PINATTR SpiceOrder 3
 PIN 176 0 RIGHT 8
 PINATTR PinName StairStep
 PINATTR SpiceOrder 4
+PIN -176 80 LEFT 8
+PINATTR PinName GND
+PINATTR SpiceOrder 5
