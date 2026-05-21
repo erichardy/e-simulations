@@ -5,9 +5,6 @@ WINDOW 0 0 -56 Bottom 2
 PIN -176 -32 LEFT 8
 PINATTR PinName Out555
 PINATTR SpiceOrder 1
-PIN -176 0 LEFT 8
-PINATTR PinName Pulse
-PINATTR SpiceOrder 2
 PIN -176 32 LEFT 8
 PINATTR PinName Vcc
 PINATTR SpiceOrder 3
@@ -17,3 +14,6 @@ PINATTR SpiceOrder 4
 PIN -176 80 LEFT 8
 PINATTR PinName GND
 PINATTR SpiceOrder 5
+PIN -176 0 LEFT 8
+PINATTR PinName Reset
+PINATTR SpiceOrder 2
